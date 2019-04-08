@@ -1,12 +1,18 @@
 # The Open Source for User Experience (UX) Readings
 This is a curated list of readings about UX 
 
-## User Experience Design (UX)
+## User Experience Design (UXD)
 | Title |
 | --- |
 | [Introduction to User Experience](https://medium.com/beakerandflint/an-introduction-user-experience-design-2a7f8167bf03) | Basic |
 | [Intro to UX: The Norman Door](https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086) |Basic|
 |[An Introduction to User Experience Design](https://hackdesign.org/lessons/9)|Basic|
+
+## User Experience Research (UXR)
+| Title |
+| --- |
+| [Introduction to UX Research](https://medium.com/beakerandflint/intro-to-ux-research-f55cc09a3431) | Basic |
+| [Introduction to UX Design Research](https://uxdesign.cc/introduction-to-ux-design-research-bb9617838e79) | Basic |
 
 ## User Experience Engineering (UXE)
 | Title |
