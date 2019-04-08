@@ -1,6 +1,7 @@
 # Readings
 This is all reading resources about UX, UXE and AI for everyone to learn with
 
+## UX Basics
 | Title | Description |
 | --- | --- |
 | git status | List all new or modified files |
