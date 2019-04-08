@@ -32,9 +32,3 @@ This is a curated list of readings about UX by UXE Lab
 | --- |
 | [Animistic Design : How to Reimagine Digital Interaction between Human and Non Human](https://drive.google.com/file/d/18kby_hJIgO_oDfgvY8J8O23if2UKELlX/view?usp=sharing) |Article|
 | [Neo-Animism and Design: A New Paradigm in Object Theory](https://drive.google.com/file/d/1du-_uXiRhgju0s9eZul8Ra1CoM083l7R/view?usp=sharing) |Basic|
-
-## Miscellaneous
-| Title |
-| --- |
-| [Going from Framer to Framer X: Designers Guide to React](https://medium.com/@maxsteitle/going-from-framer-to-framer-x-166f1dcef8dd) |Article|
-| [Neo-Animism and Design: A New Paradigm in Object Theory](https://drive.google.com/file/d/1du-_uXiRhgju0s9eZul8Ra1CoM083l7R/view?usp=sharing) |Basic|
