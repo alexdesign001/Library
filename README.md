@@ -15,5 +15,5 @@ This is a curated list of readings mainly about UX topics both theoretical and a
 | [2. Your UX Team Needs a Design Technologist. Here’s Why](https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086) |Basic|
 |[3. Design Technologists will transform your creative process — if you let them](https://medium.com/@TOPPDesign/design-technologists-will-transform-your-creative-process-if-you-let-them-95eb46c8da39)|Basic|
 |[4. Why Design Technologists is My Dream Job](https://medium.com/@doloresjoya/why-design-technologist-is-my-dream-job-6f3cf8049b92)|Basic|
-|[5. What is UX Design Technologist](http://ericknudtson.com/ux-design-technologist.html)|Basic|
-|[3. Design Technologists will transform your creative process — if you let them](https://medium.com/@TOPPDesign/design-technologists-will-transform-your-creative-process-if-you-let-them-95eb46c8da39)|Basic|
+|[5. What is UX Design Technologist?](http://ericknudtson.com/ux-design-technologist.html)|Basic|
+|[6. What Makes a Design Technologist?](https://adaptivepath.org/ideas/what-makes-a-design-technologist/)|Basic|
