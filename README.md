@@ -24,3 +24,4 @@ This is a curated list of readings mainly about UX topics both theoretical and a
 | [The Laws of Simplicity](https://drive.google.com/file/d/1QJrrusC6WoiaXbvcvmi1X34AMCGC-SzP/view?usp=sharing) | John Maeda | The MIT Press; Later prt. edition (August 21, 2006) |
 | [Don't Make Me Think](https://drive.google.com/file/d/1MSAJzyg3SpbamtyXukFuMbUotodezaWJ/view?usp=sharing) | Steve Krug | New Riders; 3 edition (January 3, 2014)|
 |[Universal Principle of Design](https://hackdesign.org/lessons/9)|William Lidwell, Kritina Holden, Jill Butler| Rockport Publishers (April 1, 2015) |
+|Designing for Interaction: Creating Innovative Applications and Devices|Dan Saffer|
