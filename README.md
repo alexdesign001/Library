@@ -18,4 +18,9 @@ This is a curated list of readings mainly about UX topics both theoretical and a
 |[What is UX Design Technologist?](http://ericknudtson.com/ux-design-technologist.html)|Basic|
 |[What Makes a Design Technologist?](https://adaptivepath.org/ideas/what-makes-a-design-technologist/)|Basic|
 
-## Pro
+## Design Books
+| Title | Author | Publisher |
+| --- | --- | --- |
+| [The Laws of Simplicity](https://drive.google.com/file/d/1QJrrusC6WoiaXbvcvmi1X34AMCGC-SzP/view?usp=sharing) | John Maeda | The MIT Press; Later prt. edition (August 21, 2006) |
+| [Intro to UX: The Norman Door](https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086) |Basic|
+|[An Introduction to User Experience Design](https://hackdesign.org/lessons/9)|Basic|
