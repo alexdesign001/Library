@@ -22,5 +22,5 @@ This is a curated list of readings mainly about UX topics both theoretical and a
 | Title | Author | Publisher |
 | --- | --- | --- |
 | [The Laws of Simplicity](https://drive.google.com/file/d/1QJrrusC6WoiaXbvcvmi1X34AMCGC-SzP/view?usp=sharing) | John Maeda | The MIT Press; Later prt. edition (August 21, 2006) |
-| [Intro to UX: The Norman Door](https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086) |Basic|
-|[An Introduction to User Experience Design](https://hackdesign.org/lessons/9)|Basic|
+| [Don't Make Me Think](https://drive.google.com/file/d/1MSAJzyg3SpbamtyXukFuMbUotodezaWJ/view?usp=sharing) | Steve Krug | New Riders; 3 edition (January 3, 2014)|
+|[Universal Principle of Design](https://hackdesign.org/lessons/9)|William Lidwell, Kritina Holden, Jill Butler| Rockport Publishers (April 1, 2015) |
