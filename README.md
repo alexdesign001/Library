@@ -7,6 +7,7 @@ This is a curated list of readings about UX by UXE Lab
 | [Introduction to User Experience](https://medium.com/beakerandflint/an-introduction-user-experience-design-2a7f8167bf03) | Basic |
 | [Intro to UX: The Norman Door](https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086) |Basic|
 |[An Introduction to User Experience Design](https://hackdesign.org/lessons/9)|Basic|
+|[UX Bootcamp](https://drive.google.com/file/d/19bIIXhqyYTj8KelfHMIGOwTHfRvBz-jF/view?usp=sharing)||
 
 ## User Experience Research (UXR)
 | Title |
