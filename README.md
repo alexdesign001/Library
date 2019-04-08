@@ -1,5 +1,5 @@
 # The Open Source for User Experience (UX) Readings
-This is a curated list of readings about UX 
+This is a curated list of readings about UX by UXE Lab
 
 ## User Experience Design (UXD)
 | Title |
