@@ -1,4 +1,4 @@
-# The Open Source for User Experience Engineering
+# The Open Source for User Experience (UX) Readings
 This is a curated list of readings mainly about UX topics both theoretical and appli
 
 ## Introduction to User Experience (UX)
@@ -8,7 +8,7 @@ This is a curated list of readings mainly about UX topics both theoretical and a
 | [Intro to UX: The Norman Door](https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086) |Basic|
 |[An Introduction to User Experience Design](https://hackdesign.org/lessons/9)|Basic|
 
-## Articles
+## Introduction to User Experience Engineering (UXE)
 | Title |
 | --- |
 | [What is UX Engineering?](https://medium.com/uxelab/1-what-is-ux-engineering-269df7fcfe10) |Article|
