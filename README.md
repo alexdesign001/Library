@@ -32,10 +32,3 @@ This is a curated list of readings about UX by UXE Lab
 | --- |
 | [Animistic Design : How to Reimagine Digital Interaction between Human and Non Human](https://drive.google.com/file/d/18kby_hJIgO_oDfgvY8J8O23if2UKELlX/view?usp=sharing) |Article|
 | [Neo-Animism and Design: A New Paradigm in Object Theory](https://drive.google.com/file/d/1du-_uXiRhgju0s9eZul8Ra1CoM083l7R/view?usp=sharing) |Basic|
-
-## Design Books
-| Title | Author | Publisher |
-| --- | --- | --- |
-| [The Laws of Simplicity](https://drive.google.com/file/d/1QJrrusC6WoiaXbvcvmi1X34AMCGC-SzP/view?usp=sharing) | John Maeda | The MIT Press; Later prt. edition (August 21, 2006) |
-| [Don't Make Me Think](https://drive.google.com/file/d/1MSAJzyg3SpbamtyXukFuMbUotodezaWJ/view?usp=sharing) | Steve Krug | New Riders; 3 edition (January 3, 2014)|
-|[Universal Principle of Design](https://hackdesign.org/lessons/9)|William Lidwell, Kritina Holden, Jill Butler| Rockport Publishers (April 1, 2015) |
