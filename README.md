@@ -11,8 +11,10 @@ This is a curated list of readings about UX
 ## User Experience Research (UXR)
 | Title |
 | --- |
-| [Introduction to UX Research](https://medium.com/beakerandflint/intro-to-ux-research-f55cc09a3431) | Basic |
-| [Introduction to UX Design Research](https://uxdesign.cc/introduction-to-ux-design-research-bb9617838e79) | Basic |
+| [Introduction to UX Research](https://medium.com/beakerandflint/intro-to-ux-research-f55cc09a3431) |
+| [Introduction to UX Design Research](https://uxdesign.cc/introduction-to-ux-design-research-bb9617838e79) |
+|[What is UX Research?](https://www.interaction-design.org/literature/topics/ux-research)|
+|[UX Research Career Starter Guide](https://uxplanet.org/ux-research-career-starter-guide-80dafda0a601)|
 
 ## User Experience Engineering (UXE)
 | Title |
