@@ -2,7 +2,7 @@
 Library is a curated list of readings consisting of topics such as design and technology
 
 # UX
-User Experience Design (UXD)
+∙ User Experience Design (UXD)
 
 | Title |
 | --- |
@@ -11,7 +11,7 @@ User Experience Design (UXD)
 |[An Introduction to User Experience Design](https://hackdesign.org/lessons/9)|Basic|
 |[UX Bootcamp](https://drive.google.com/file/d/19bIIXhqyYTj8KelfHMIGOwTHfRvBz-jF/view?usp=sharing)||
 
-User Experience Research (UXR)
+∙ User Experience Research (UXR)
 
 | Title |
 | --- |
@@ -20,7 +20,7 @@ User Experience Research (UXR)
 |[What is UX Research?](https://www.interaction-design.org/literature/topics/ux-research)|
 |[UX Research Career Starter Guide](https://uxplanet.org/ux-research-career-starter-guide-80dafda0a601)|
 
-User Experience Engineering (UXE)
+∙ User Experience Engineering (UXE)
 
 | Title |
 | --- |
