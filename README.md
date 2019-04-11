@@ -3,9 +3,7 @@ Library is a curated list of readings consisting of topics such as design and te
 
 # 👩‍🎤UX
 
-∙ User Experience Engineering (UXE)
-
-| Title |
+| USER EXPERIENCE ENGINEERING (UXE) |
 | --- |
 | [What is UX Engineering?](https://medium.com/uxelab/1-what-is-ux-engineering-269df7fcfe10) |Article|
 | [Your UX Team Needs a Design Technologist. Here’s Why](https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086) |Basic|
@@ -14,18 +12,16 @@ Library is a curated list of readings consisting of topics such as design and te
 |[What is UX Design Technologist?](http://ericknudtson.com/ux-design-technologist.html)|Basic|
 |[What Makes a Design Technologist?](https://adaptivepath.org/ideas/what-makes-a-design-technologist/)|Basic|
 
-∙ User Experience Design (UXD)
 
-| Title |
+| USER EXPERIENCE DESIGN (UXD) |
 | --- |
 | [Introduction to User Experience](https://medium.com/beakerandflint/an-introduction-user-experience-design-2a7f8167bf03) | Basic |
 | [Intro to UX: The Norman Door](https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086) |Basic|
 |[An Introduction to User Experience Design](https://hackdesign.org/lessons/9)|Basic|
 |[UX Bootcamp](https://drive.google.com/file/d/19bIIXhqyYTj8KelfHMIGOwTHfRvBz-jF/view?usp=sharing)||
 
-∙ User Experience Research (UXR)
 
-| Title |
+| USER EXPERIENCE RESEARCH (UXR) |
 | --- |
 | [Introduction to UX Research](https://medium.com/beakerandflint/intro-to-ux-research-f55cc09a3431) |
 | [Introduction to UX Design Research](https://uxdesign.cc/introduction-to-ux-design-research-bb9617838e79) |
