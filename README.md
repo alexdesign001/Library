@@ -31,7 +31,7 @@ Library is a curated list of readings consisting of topics such as design and te
 |[What is UX Research?](https://www.interaction-design.org/literature/topics/ux-research)|
 |[UX Research Career Starter Guide](https://uxplanet.org/ux-research-career-starter-guide-80dafda0a601)|
 
-∙ **_Design Books_** ⚡️
+∙ **_Design Books and Articles_** ⚡️
 
 | **Title** | **Author** | **Publisher** |
 | --- | --- | --- |
@@ -39,6 +39,10 @@ Library is a curated list of readings consisting of topics such as design and te
 | [Don't Make Me Think](https://drive.google.com/file/d/1MSAJzyg3SpbamtyXukFuMbUotodezaWJ/view?usp=sharing) | Steve Krug | New Riders; 3 edition (January 3, 2014)|
 |[Universal Principle of Design](https://hackdesign.org/lessons/9)|William Lidwell, Kritina Holden, Jill Butler| Rockport Publishers (April 1, 2015) |
 |[The Design of Everyday Things](https://drive.google.com/file/d/1CU1gC5a6Xjqp73pGXLzu4ZzgQdzdLayU/view?usp=sharing)|Don Norman| Basic Books; Revised, Expanded edition (November 5, 2013) |
+|[Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://drive.google.com/file/d/1vU59gIHYMUR3drEImzMQ158Y363jmChc/view?usp=sharing)|Jake Knapp|Google Ventures |
+|[10 Principles of Good Design](https://hackernoon.com/dieter-rams-10-principles-of-good-design-e7790cc983e9)|Dieter Rams| Medium Article|
+
+
 
 
 # Research Publications in Design and Technology 
