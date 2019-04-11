@@ -12,6 +12,7 @@ Library is a curated list of readings consisting of topics such as design and te
 |[Why Design Technologists is My Dream Job](https://medium.com/@doloresjoya/why-design-technologist-is-my-dream-job-6f3cf8049b92)|Basic|
 |[What is UX Design Technologist?](http://ericknudtson.com/ux-design-technologist.html)|Basic|
 |[What Makes a Design Technologist?](https://adaptivepath.org/ideas/what-makes-a-design-technologist/)|Basic|
+|[20 Skills Needed to Become a UX Engineer](https://uxengineer.com/skills-needed-become-a-ux-engineer/)|Basic|
 
 ∙ **_User Experience Design (UXD)_** ⚡️
 
@@ -30,6 +31,7 @@ Library is a curated list of readings consisting of topics such as design and te
 | [Introduction to UX Design Research](https://uxdesign.cc/introduction-to-ux-design-research-bb9617838e79) |
 |[What is UX Research?](https://www.interaction-design.org/literature/topics/ux-research)|
 |[UX Research Career Starter Guide](https://uxplanet.org/ux-research-career-starter-guide-80dafda0a601)|
+
 
 ∙ **_Design Books and Articles_** ⚡️
 
