@@ -31,7 +31,7 @@ Library is a curated list of readings consisting of topics such as design and te
 |[What is UX Design Technologist?](http://ericknudtson.com/ux-design-technologist.html)|Basic|
 |[What Makes a Design Technologist?](https://adaptivepath.org/ideas/what-makes-a-design-technologist/)|Basic|
 
-## Research Publications in Design and Technology 
+# Research Publications in Design and Technology 
 | Title |
 | --- |
 | [Animistic Design : How to Reimagine Digital Interaction between Human and Non Human](https://drive.google.com/file/d/18kby_hJIgO_oDfgvY8J8O23if2UKELlX/view?usp=sharing) |Article|
