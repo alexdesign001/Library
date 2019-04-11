@@ -1,7 +1,9 @@
-# The Open Source for User Experience (UX) Readings
-This is a curated list of readings about UX by UXE Lab
+# The Open Source Libr User Experience (UX) Readings
+Library is a curated list of readings consisting of topics such as design and technology
 
-## User Experience Design (UXD)
+# UX
+User Experience Design (UXD)
+
 | Title |
 | --- |
 | [Introduction to User Experience](https://medium.com/beakerandflint/an-introduction-user-experience-design-2a7f8167bf03) | Basic |
@@ -9,7 +11,8 @@ This is a curated list of readings about UX by UXE Lab
 |[An Introduction to User Experience Design](https://hackdesign.org/lessons/9)|Basic|
 |[UX Bootcamp](https://drive.google.com/file/d/19bIIXhqyYTj8KelfHMIGOwTHfRvBz-jF/view?usp=sharing)||
 
-## User Experience Research (UXR)
+User Experience Research (UXR)
+
 | Title |
 | --- |
 | [Introduction to UX Research](https://medium.com/beakerandflint/intro-to-ux-research-f55cc09a3431) |
@@ -17,7 +20,8 @@ This is a curated list of readings about UX by UXE Lab
 |[What is UX Research?](https://www.interaction-design.org/literature/topics/ux-research)|
 |[UX Research Career Starter Guide](https://uxplanet.org/ux-research-career-starter-guide-80dafda0a601)|
 
-## User Experience Engineering (UXE)
+User Experience Engineering (UXE)
+
 | Title |
 | --- |
 | [What is UX Engineering?](https://medium.com/uxelab/1-what-is-ux-engineering-269df7fcfe10) |Article|
