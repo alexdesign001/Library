@@ -1,4 +1,4 @@
-# Welcome to our library ! 📕
+# Welcome to our library ! 📕⚡️
 Library is a curated list of readings consisting of topics such as design and technology
 
 # 👩‍🎤UX
@@ -33,7 +33,7 @@ Library is a curated list of readings consisting of topics such as design and te
 |[UX Research Career Starter Guide](https://uxplanet.org/ux-research-career-starter-guide-80dafda0a601)|
 
 
-# 👩🏻‍💻Research Publications in Design and Technology 
+# 👩🏻‍💻 Research Publications in Design and Technology 
 | Title |
 | --- |
 | [Animistic Design : How to Reimagine Digital Interaction between Human and Non Human](https://drive.google.com/file/d/18kby_hJIgO_oDfgvY8J8O23if2UKELlX/view?usp=sharing) |Article|
