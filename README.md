@@ -26,6 +26,7 @@ This is a curated list of readings about UX by UXE Lab
 |[Why Design Technologists is My Dream Job](https://medium.com/@doloresjoya/why-design-technologist-is-my-dream-job-6f3cf8049b92)|Basic|
 |[What is UX Design Technologist?](http://ericknudtson.com/ux-design-technologist.html)|Basic|
 |[What Makes a Design Technologist?](https://adaptivepath.org/ideas/what-makes-a-design-technologist/)|Basic|
+|[20 Skills Needed to Become a UX Engineer](https://uxengineer.com/skills-needed-become-a-ux-engineer/)|Basic|
 
 ## Research Publications in Design and Technology 
 | Title |
