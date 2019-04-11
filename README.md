@@ -1,8 +1,8 @@
-# Welcome to our library ! 📕⚡️
+# Welcome to our library!📚
 Library is a curated list of readings consisting of topics such as design and technology
 
 # UX and Design
-∙ User Experience Engineering (UXE) ⚡️
+∙ **_User Experience Engineering (UXE)_** ⚡️
 
 | Title |
 | --- |
@@ -13,7 +13,7 @@ Library is a curated list of readings consisting of topics such as design and te
 |[What is UX Design Technologist?](http://ericknudtson.com/ux-design-technologist.html)|Basic|
 |[What Makes a Design Technologist?](https://adaptivepath.org/ideas/what-makes-a-design-technologist/)|Basic|
 
-∙ User Experience Design (UXD) ⚡️
+∙ **_User Experience Design (UXD)_** ⚡️
 
 | Title |
 | --- |
@@ -22,7 +22,7 @@ Library is a curated list of readings consisting of topics such as design and te
 |[An Introduction to User Experience Design](https://hackdesign.org/lessons/9)|Basic|
 |[UX Bootcamp](https://drive.google.com/file/d/19bIIXhqyYTj8KelfHMIGOwTHfRvBz-jF/view?usp=sharing)||
 
-∙ User Experience Research (UXR) ⚡️
+∙ **_User Experience Research (UXR)_** ⚡️
 
 | Title |
 | --- |
@@ -31,7 +31,7 @@ Library is a curated list of readings consisting of topics such as design and te
 |[What is UX Research?](https://www.interaction-design.org/literature/topics/ux-research)|
 |[UX Research Career Starter Guide](https://uxplanet.org/ux-research-career-starter-guide-80dafda0a601)|
 
-∙ Design Books ⚡️
+∙ **_Design Books_** ⚡️
 
 | Title | Author | Publisher |
 | --- | --- | --- |
