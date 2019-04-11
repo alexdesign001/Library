@@ -1,7 +1,7 @@
 # Welcome to our library ! 📕⚡️
 Library is a curated list of readings consisting of topics such as design and technology
 
-# UX
+# UX and Design
 ∙ User Experience Engineering (UXE) ⚡️
 
 | Title |
@@ -30,6 +30,14 @@ Library is a curated list of readings consisting of topics such as design and te
 | [Introduction to UX Design Research](https://uxdesign.cc/introduction-to-ux-design-research-bb9617838e79) |
 |[What is UX Research?](https://www.interaction-design.org/literature/topics/ux-research)|
 |[UX Research Career Starter Guide](https://uxplanet.org/ux-research-career-starter-guide-80dafda0a601)|
+
+∙ Design Books ⚡️
+
+| Title | Author | Publisher |
+| --- | --- | --- |
+| [The Laws of Simplicity](https://drive.google.com/file/d/1QJrrusC6WoiaXbvcvmi1X34AMCGC-SzP/view?usp=sharing) | John Maeda | The MIT Press; Later prt. edition (August 21, 2006) |
+| [Don't Make Me Think](https://drive.google.com/file/d/1MSAJzyg3SpbamtyXukFuMbUotodezaWJ/view?usp=sharing) | Steve Krug | New Riders; 3 edition (January 3, 2014)|
+|[Universal Principle of Design](https://hackdesign.org/lessons/9)|William Lidwell, Kritina Holden, Jill Butler| Rockport Publishers (April 1, 2015) |
 
 
 # Research Publications in Design and Technology 
