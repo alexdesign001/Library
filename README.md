@@ -41,6 +41,9 @@ Library is a curated list of readings consisting of topics such as design and te
 |[The Design of Everyday Things](https://drive.google.com/file/d/1CU1gC5a6Xjqp73pGXLzu4ZzgQdzdLayU/view?usp=sharing)|Don Norman| Basic Books; Revised, Expanded edition (November 5, 2013) |
 |[Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://drive.google.com/file/d/1vU59gIHYMUR3drEImzMQ158Y363jmChc/view?usp=sharing)|Jake Knapp|Google Ventures |
 |[10 Principles of Good Design](https://hackernoon.com/dieter-rams-10-principles-of-good-design-e7790cc983e9)|Dieter Rams| Medium Article|
+|[101 UX Principles](https://drive.google.com/file/d/1Ep0-MxczyWcK9vwnUP6oP27EYDmUkhsS/view?usp=sharing)|Will Grant| Packt Publishing (2018)|
+
+
 
 
 
