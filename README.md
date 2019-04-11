@@ -1,8 +1,8 @@
 # Welcome to our library ! 📕⚡️
 Library is a curated list of readings consisting of topics such as design and technology
 
-# 👩‍🎤UX
-∙ User Experience Engineering (UXE)
+# UX
+∙ User Experience Engineering (UXE) ⚡️
 
 | Title |
 | --- |
@@ -13,7 +13,7 @@ Library is a curated list of readings consisting of topics such as design and te
 |[What is UX Design Technologist?](http://ericknudtson.com/ux-design-technologist.html)|Basic|
 |[What Makes a Design Technologist?](https://adaptivepath.org/ideas/what-makes-a-design-technologist/)|Basic|
 
-∙ User Experience Design (UXD)
+∙ User Experience Design (UXD) ⚡️
 
 | Title |
 | --- |
@@ -22,7 +22,7 @@ Library is a curated list of readings consisting of topics such as design and te
 |[An Introduction to User Experience Design](https://hackdesign.org/lessons/9)|Basic|
 |[UX Bootcamp](https://drive.google.com/file/d/19bIIXhqyYTj8KelfHMIGOwTHfRvBz-jF/view?usp=sharing)||
 
-∙ User Experience Research (UXR)
+∙ User Experience Research (UXR) ⚡️
 
 | Title |
 | --- |
@@ -32,7 +32,9 @@ Library is a curated list of readings consisting of topics such as design and te
 |[UX Research Career Starter Guide](https://uxplanet.org/ux-research-career-starter-guide-80dafda0a601)|
 
 
-# 👩🏻‍💻 Research Publications in Design and Technology 
+# Research Publications in Design and Technology 
+∙ Design Philosophy in Human Centric AI (HCAI)
+
 | Title |
 | --- |
 | [Animistic Design : How to Reimagine Digital Interaction between Human and Non Human](https://drive.google.com/file/d/18kby_hJIgO_oDfgvY8J8O23if2UKELlX/view?usp=sharing) |Article|
