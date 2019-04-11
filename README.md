@@ -4,7 +4,7 @@ Library is a curated list of readings consisting of topics such as design and te
 # UX and Design
 ∙ **_User Experience Engineering (UXE)_** ⚡️
 
-| Title |
+| **Title** |
 | --- |
 | [What is UX Engineering?](https://medium.com/uxelab/1-what-is-ux-engineering-269df7fcfe10) |Article|
 | [Your UX Team Needs a Design Technologist. Here’s Why](https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086) |Basic|
@@ -24,7 +24,7 @@ Library is a curated list of readings consisting of topics such as design and te
 
 ∙ **_User Experience Research (UXR)_** ⚡️
 
-| Title |
+| **Title** |
 | --- |
 | [Introduction to UX Research](https://medium.com/beakerandflint/intro-to-ux-research-f55cc09a3431) |
 | [Introduction to UX Design Research](https://uxdesign.cc/introduction-to-ux-design-research-bb9617838e79) |
@@ -33,17 +33,26 @@ Library is a curated list of readings consisting of topics such as design and te
 
 ∙ **_Design Books_** ⚡️
 
-| Title | Author | Publisher |
+| **Title** | **Author** | **Publisher** |
 | --- | --- | --- |
 | [The Laws of Simplicity](https://drive.google.com/file/d/1QJrrusC6WoiaXbvcvmi1X34AMCGC-SzP/view?usp=sharing) | John Maeda | The MIT Press; Later prt. edition (August 21, 2006) |
 | [Don't Make Me Think](https://drive.google.com/file/d/1MSAJzyg3SpbamtyXukFuMbUotodezaWJ/view?usp=sharing) | Steve Krug | New Riders; 3 edition (January 3, 2014)|
 |[Universal Principle of Design](https://hackdesign.org/lessons/9)|William Lidwell, Kritina Holden, Jill Butler| Rockport Publishers (April 1, 2015) |
+|[The Design of Everyday Things](https://drive.google.com/file/d/1CU1gC5a6Xjqp73pGXLzu4ZzgQdzdLayU/view?usp=sharing)|Don Norman| Basic Books; Revised, Expanded edition (November 5, 2013) |
 
 
 # Research Publications in Design and Technology 
-∙ Design Philosophy in Human Centric AI (HCAI)
+∙ **_Design Philosophy in Human Centric AI (HCAI)_** ⚡️
 
-| Title |
-| --- |
-| [Animistic Design : How to Reimagine Digital Interaction between Human and Non Human](https://drive.google.com/file/d/18kby_hJIgO_oDfgvY8J8O23if2UKELlX/view?usp=sharing) |Article|
-| [Neo-Animism and Design: A New Paradigm in Object Theory](https://drive.google.com/file/d/1du-_uXiRhgju0s9eZul8Ra1CoM083l7R/view?usp=sharing) |Basic|
+| **Title** | **Type** |
+| --- | --- |
+| [Animistic Design : How to Reimagine Digital Interaction between Human and Non Human](https://drive.google.com/file/d/18kby_hJIgO_oDfgvY8J8O23if2UKELlX/view?usp=sharing) |Research Paper|
+| [Neo-Animism and Design: A New Paradigm in Object Theory](https://drive.google.com/file/d/1du-_uXiRhgju0s9eZul8Ra1CoM083l7R/view?usp=sharing) |Research Paper|
+| [Ethic Consience in Product Design](https://drive.google.com/file/d/1uHSTtdJ_BLTZaDF-rt4S1wyZLroEg0x9/view?usp=sharing) | Research Paper |
+
+∙ **_Artificial Intelligence (AI)_** ⚡️
+
+| **Title** | **Type** |
+| --- | --- |
+| [Superintelligence: Path, Dangers, Strategies](https://drive.google.com/file/d/1riVgldoyYSC9ItPO58VYHpWGaExudKQn/view?usp=sharing) |Book|
+
