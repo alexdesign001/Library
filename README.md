@@ -1,6 +1,7 @@
-# Welcome to our library!📚
+# Welcome to our library! 📚
+This is our curated reading resource lists about design (UX) and technology for everyone to explore and learn along. We'll keep the lists updated and feel free to contribute in growing the library with your resources and ideas as well !
 
-# UX and Design
+# UX
 ∙ **_User Experience Engineering (UXE)_** ⚡️
 
 | **Title** |
