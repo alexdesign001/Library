@@ -1,5 +1,4 @@
 # Welcome to our library!📚
-Library is a curated list of readings consisting of topics such as design and technology
 
 # UX and Design
 ∙ **_User Experience Engineering (UXE)_** ⚡️
