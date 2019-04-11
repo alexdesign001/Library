@@ -56,10 +56,11 @@ Library is a curated list of readings consisting of topics such as design and te
 | [Animistic Design : How to Reimagine Digital Interaction between Human and Non Human](https://drive.google.com/file/d/18kby_hJIgO_oDfgvY8J8O23if2UKELlX/view?usp=sharing) |Research Paper|
 | [Neo-Animism and Design: A New Paradigm in Object Theory](https://drive.google.com/file/d/1du-_uXiRhgju0s9eZul8Ra1CoM083l7R/view?usp=sharing) |Research Paper|
 | [Ethic Consience in Product Design](https://drive.google.com/file/d/1uHSTtdJ_BLTZaDF-rt4S1wyZLroEg0x9/view?usp=sharing) | Research Paper |
+| [Possible Minds - 25 Ways of Looking at AI](https://drive.google.com/file/d/1w_NGbLMTb90g2ypBa3jSwaNtB6Xd4Wwl/view?usp=sharing) | Research Paper |
 
 ∙ **_Artificial Intelligence (AI)_** ⚡️
 
 | **Title** | **Type** |
 | --- | --- |
 | [Superintelligence: Path, Dangers, Strategies](https://drive.google.com/file/d/1riVgldoyYSC9ItPO58VYHpWGaExudKQn/view?usp=sharing) |Book|
-
+| [Artificial General Intelligence](https://drive.google.com/file/d/1-vUd-G24V_WmULswj8ZLidAOhiOPBmEa/view?usp=sharing)|Book|
