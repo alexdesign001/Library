@@ -35,17 +35,17 @@ This is our curated reading resource lists about design (UX) and technology for 
 
 ∙ **_Design Books and Articles_** ⚡️
 
-| **Title** | **Author** | **Publisher** |
-| --- | --- | --- |
-| [The Laws of Simplicity](https://drive.google.com/file/d/1QJrrusC6WoiaXbvcvmi1X34AMCGC-SzP/view?usp=sharing) | John Maeda | The MIT Press; Later prt. edition (August 21, 2006) |
-| [Don't Make Me Think](https://drive.google.com/file/d/1MSAJzyg3SpbamtyXukFuMbUotodezaWJ/view?usp=sharing) | Steve Krug | New Riders; 3 edition (January 3, 2014)|
-|[Universal Principle of Design](https://hackdesign.org/lessons/9)|William Lidwell, Kritina Holden, Jill Butler| Rockport Publishers (April 1, 2015) |
-|[The Design of Everyday Things](https://drive.google.com/file/d/1CU1gC5a6Xjqp73pGXLzu4ZzgQdzdLayU/view?usp=sharing)|Don Norman| Basic Books; Revised, Expanded edition (November 5, 2013) |
-|[Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://drive.google.com/file/d/1vU59gIHYMUR3drEImzMQ158Y363jmChc/view?usp=sharing)|Jake Knapp|Google Ventures |
-|[10 Principles of Good Design](https://hackernoon.com/dieter-rams-10-principles-of-good-design-e7790cc983e9)|Dieter Rams| Medium Article|
-|[101 UX Principles](https://drive.google.com/file/d/1Ep0-MxczyWcK9vwnUP6oP27EYDmUkhsS/view?usp=sharing)|Will Grant| Packt Publishing (2018)|
-|[Humane by Design](https://blog.marvelapp.com/accessibility-before-aesthetics/)|© 2019 Jon Yablonski|
-|[Accessibility before Aesthetics](https://blog.marvelapp.com/accessibility-before-aesthetics/)|Arijit Dey|Marvel Blog|
+| **Title** | **Author** | **Publisher** | Type |
+| --- | --- | --- | --- |
+| [The Laws of Simplicity](https://drive.google.com/file/d/1QJrrusC6WoiaXbvcvmi1X34AMCGC-SzP/view?usp=sharing) | John Maeda | The MIT Press; Later prt. edition (August 21, 2006) | Book |
+| [Don't Make Me Think](https://drive.google.com/file/d/1MSAJzyg3SpbamtyXukFuMbUotodezaWJ/view?usp=sharing) | Steve Krug | New Riders; 3 edition (January 3, 2014)| Book |
+|[Universal Principle of Design](https://hackdesign.org/lessons/9)|William Lidwell, Kritina Holden, Jill Butler| Rockport Publishers (April 1, 2015) | Book |
+|[The Design of Everyday Things](https://drive.google.com/file/d/1CU1gC5a6Xjqp73pGXLzu4ZzgQdzdLayU/view?usp=sharing)|Don Norman| Basic Books; Revised, Expanded edition (November 5, 2013) | Book |
+|[Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://drive.google.com/file/d/1vU59gIHYMUR3drEImzMQ158Y363jmChc/view?usp=sharing)|Jake Knapp|Google Ventures | Book |
+|[10 Principles of Good Design](https://hackernoon.com/dieter-rams-10-principles-of-good-design-e7790cc983e9)|Dieter Rams| Medium Article| Article |
+|[101 UX Principles](https://drive.google.com/file/d/1Ep0-MxczyWcK9vwnUP6oP27EYDmUkhsS/view?usp=sharing)|Will Grant| Packt Publishing (2018)| Book |
+|[Humane by Design](https://blog.marvelapp.com/accessibility-before-aesthetics/)|Jon Yablonski|-| Article |
+|[Accessibility before Aesthetics](https://blog.marvelapp.com/accessibility-before-aesthetics/)|Arijit Dey|Marvel Blog| Article |
 
 # Research Publications in Design and Technology 
 ∙ **_Design Philosophy in Human Centric AI (HCAI)_** ⚡️
