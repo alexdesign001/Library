@@ -22,6 +22,7 @@ This is our curated reading resource lists about design (UX) and technology for 
 | [Intro to UX: The Norman Door](https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086) |Basic|
 |[An Introduction to User Experience Design](https://hackdesign.org/lessons/9)|Basic|
 |[UX Bootcamp](https://drive.google.com/file/d/19bIIXhqyYTj8KelfHMIGOwTHfRvBz-jF/view?usp=sharing)||
+|[Accessibility before Aesthetics](https://blog.marvelapp.com/accessibility-before-aesthetics/)||
 
 ∙ **_User Experience Research (UXR)_** ⚡️
 
@@ -44,11 +45,6 @@ This is our curated reading resource lists about design (UX) and technology for 
 |[Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://drive.google.com/file/d/1vU59gIHYMUR3drEImzMQ158Y363jmChc/view?usp=sharing)|Jake Knapp|Google Ventures |
 |[10 Principles of Good Design](https://hackernoon.com/dieter-rams-10-principles-of-good-design-e7790cc983e9)|Dieter Rams| Medium Article|
 |[101 UX Principles](https://drive.google.com/file/d/1Ep0-MxczyWcK9vwnUP6oP27EYDmUkhsS/view?usp=sharing)|Will Grant| Packt Publishing (2018)|
-
-
-
-
-
 
 # Research Publications in Design and Technology 
 ∙ **_Design Philosophy in Human Centric AI (HCAI)_** ⚡️
