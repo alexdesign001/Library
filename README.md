@@ -48,7 +48,7 @@ This is our curated reading resource lists about design (UX) and technology for 
 |[Accessibility before Aesthetics](https://blog.marvelapp.com/accessibility-before-aesthetics/)|Arijit Dey|Marvel Blog| Article |
 
 # Research Publications in Design and Technology 
-∙ **_Design 5.0_** ⚡️
+∙ **_Design 5.0 : When AI Meets Design_** ⚡️
 
 | **Title** | **Type** |
 | --- | --- |
