@@ -57,6 +57,7 @@ This is our curated reading resource lists about design (UX) and technology for 
 | [Ethic Consience in Product Design](https://drive.google.com/file/d/1uHSTtdJ_BLTZaDF-rt4S1wyZLroEg0x9/view?usp=sharing) | Research Paper |
 | [Possible Minds - 25 Ways of Looking at AI](https://drive.google.com/file/d/1w_NGbLMTb90g2ypBa3jSwaNtB6Xd4Wwl/view?usp=sharing) | Research Paper |
 | [Not-so-Autonomous, very human decisions in Machine Learning. Questions when designing for ML](https://drive.google.com/file/d/1vfGkPqg5iTVaLgKh1gC8SpWmULAN9k0_/view?usp=sharing) | Research Paper |
+| [Identifying the intersections: User experience + research scientist collaboration in a generative machine learning interface](upcoming) | Research Paper |
 
 ∙ **_Artificial Intelligence (AI)_** ⚡️
 
