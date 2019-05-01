@@ -48,7 +48,7 @@ This is our curated reading resource lists about design (UX) and technology for 
 |[Accessibility before Aesthetics](https://blog.marvelapp.com/accessibility-before-aesthetics/)|Arijit Dey|Marvel Blog| Article |
 |[Personas - User Focused Design](https://drive.google.com/file/d/1UDG4EeEXSgExrJKr4OgkYVJOGBqO6ESI/view?usp=sharing)|Lene Nielsen| Springer (2018) | Book |
 | [Cognitive Biases in Visualization](https://drive.google.com/file/d/152AfXbDlRT1dZJtf-xq0ZHD0pPkO8F5X/view?usp=sharing) |Geoffrey Ellis | Springer (2018) | Book |
-| [Human and Machine Learning](https://drive.google.com/file/d/1CZ6r8Po7vcSlW45gyQzhAiwfdja-tfCe/view?usp=sharing)|Book|
+| [Human and Machine Learning](https://drive.google.com/file/d/1CZ6r8Po7vcSlW45gyQzhAiwfdja-tfCe/view?usp=sharing)|Jianlong Zhou & Fang Chen | Springer (2018) | Book |
 
 
 # Research Publications in Design and Technology 
@@ -63,7 +63,6 @@ This is our curated reading resource lists about design (UX) and technology for 
 | [Not-so-Autonomous, very human decisions in Machine Learning. Questions when designing for ML](https://drive.google.com/file/d/1vfGkPqg5iTVaLgKh1gC8SpWmULAN9k0_/view?usp=sharing) | Research Paper |
 | Identifying the intersections: User experience + research scientist collaboration in a generative machine learning interface | Research Paper (Upcoming) |
 | [Assessing and Addressing Algorithmic Bias - But Before We Get There.](https://drive.google.com/file/d/1OQxAlw5QwPL3gNZsGkjB6BaYprkJ_xGN/view?usp=sharing) | Research Paper |
-
 
 
 ∙ **_Artificial Intelligence (AI)_** ⚡️
