@@ -70,4 +70,4 @@ This is our curated reading resource lists about design (UX) and technology for 
 | --- | --- |
 | [Superintelligence: Path, Dangers, Strategies](https://drive.google.com/file/d/1riVgldoyYSC9ItPO58VYHpWGaExudKQn/view?usp=sharing) |Book|
 | [Artificial General Intelligence](https://drive.google.com/file/d/1-vUd-G24V_WmULswj8ZLidAOhiOPBmEa/view?usp=sharing)|Book|
-| [Human and Machine Learning](https://drive.google.com/file/d/1CZ6r8Po7vcSlW45gyQzhAiwfdja-tfCe/view?usp=sharing)|Jianlong Zhou & Fang Chen | Springer (2018) | Book|
+| [Human and Machine Learning](https://drive.google.com/file/d/1CZ6r8Po7vcSlW45gyQzhAiwfdja-tfCe/view?usp=sharing)|Book|
