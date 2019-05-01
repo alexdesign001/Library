@@ -46,6 +46,8 @@ This is our curated reading resource lists about design (UX) and technology for 
 |[101 UX Principles](https://drive.google.com/file/d/1Ep0-MxczyWcK9vwnUP6oP27EYDmUkhsS/view?usp=sharing)|Will Grant| Packt Publishing (2018)| Book |
 |[Humane by Design](https://blog.marvelapp.com/accessibility-before-aesthetics/)|Jon Yablonski|-| Article |
 |[Accessibility before Aesthetics](https://blog.marvelapp.com/accessibility-before-aesthetics/)|Arijit Dey|Marvel Blog| Article |
+|[Personas - User Focused Design](https://drive.google.com/file/d/1UDG4EeEXSgExrJKr4OgkYVJOGBqO6ESI/view?usp=sharing)|Lene Nielsen| Springer (2018) | Book |
+
 
 # Research Publications in Design and Technology 
 ∙ **_Design 5.0 : When AI Meets Design_** ⚡️
@@ -59,6 +61,8 @@ This is our curated reading resource lists about design (UX) and technology for 
 | [Not-so-Autonomous, very human decisions in Machine Learning. Questions when designing for ML](https://drive.google.com/file/d/1vfGkPqg5iTVaLgKh1gC8SpWmULAN9k0_/view?usp=sharing) | Research Paper |
 | Identifying the intersections: User experience + research scientist collaboration in a generative machine learning interface | Research Paper (Upcoming) |
 | [Assessing and Addressing Algorithmic Bias - But Before We Get There.](https://drive.google.com/file/d/1OQxAlw5QwPL3gNZsGkjB6BaYprkJ_xGN/view?usp=sharing) | Research Paper |
+| [Cognitive Biases in Visualization](https://drive.google.com/file/d/152AfXbDlRT1dZJtf-xq0ZHD0pPkO8F5X/view?usp=sharing) |Geoffrey Ellis | Springer (2018) | Book |
+
 
 ∙ **_Artificial Intelligence (AI)_** ⚡️
 
@@ -66,3 +70,4 @@ This is our curated reading resource lists about design (UX) and technology for 
 | --- | --- |
 | [Superintelligence: Path, Dangers, Strategies](https://drive.google.com/file/d/1riVgldoyYSC9ItPO58VYHpWGaExudKQn/view?usp=sharing) |Book|
 | [Artificial General Intelligence](https://drive.google.com/file/d/1-vUd-G24V_WmULswj8ZLidAOhiOPBmEa/view?usp=sharing)|Book|
+| [Human and Machine Learning](https://drive.google.com/file/d/1CZ6r8Po7vcSlW45gyQzhAiwfdja-tfCe/view?usp=sharing)|Jianlong Zhou & Fang Chen | Springer (2018) | Book|
