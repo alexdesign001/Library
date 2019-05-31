@@ -49,6 +49,7 @@ This is our curated reading resource lists about design (UX) and technology for 
 |[Personas - User Focused Design](https://drive.google.com/file/d/1UDG4EeEXSgExrJKr4OgkYVJOGBqO6ESI/view?usp=sharing)|Lene Nielsen| Springer (2018) | Book |
 | [Cognitive Biases in Visualization](https://drive.google.com/file/d/152AfXbDlRT1dZJtf-xq0ZHD0pPkO8F5X/view?usp=sharing) |Geoffrey Ellis | Springer (2018) | Book |
 | [Human and Machine Learning](https://drive.google.com/file/d/1CZ6r8Po7vcSlW45gyQzhAiwfdja-tfCe/view?usp=sharing)|Jianlong Zhou & Fang Chen | Springer (2018) | Book |
+| [Machine Learning in 25 Minutes](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit?usp=sharing)|Jason Mayes | Google (2019) | Google Slide |
 
 
 # Research Publications in Design and Technology 
